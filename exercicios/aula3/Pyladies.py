@@ -31,3 +31,5 @@ class Pyladies:
         self.__info_members['Nascimento'].append(born)
         self.__info_members['Universidade'].append(university)
         self.__info_members['Curso'].append(course)
+
+# OBS: classe Pyladies criada na aula 2 com algumas modificações como Nascimento, universidade e curso.
