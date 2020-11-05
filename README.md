@@ -9,3 +9,4 @@
 - [Aula 2](https://github.com/celenny/grupo-de-estudos-pyladies/tree/main/exercicios/aula2)
 - [Aula 3](https://github.com/celenny/grupo-de-estudos-pyladies/tree/main/exercicios/aula3)
 - [Aula 4](https://github.com/celenny/grupo-de-estudos-pyladies/tree/main/exercicios/aula4)
+- [Aula 5](https://github.com/celenny/grupo-de-estudos-pyladies/tree/main/exercicios/aula5)
